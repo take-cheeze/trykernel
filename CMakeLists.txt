@@ -21,6 +21,7 @@ add_executable(try-kernel
     kernel/eventflag.c
     kernel/gpio.c
     kernel/inittsk.c
+    kernel/interrupt.c
     kernel/messagebuf.c
     kernel/scheduler.c
     kernel/semaphore.c
